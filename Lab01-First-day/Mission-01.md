@@ -39,7 +39,7 @@ Part of systemd, which Ubuntu uses to manage system settings. It lets you inspec
 Operating System: Ubuntu 26.04.1 LTS
 ```
 
-Full output: [m1-hostnamectl.md](commands/mission01/m1-hostnamectl.md)
+Full output: [m1-hostnamectl.md](commands/mission01/#%20Commands%20-%20hostnamectl.md)
 
 ### `free -h`
 

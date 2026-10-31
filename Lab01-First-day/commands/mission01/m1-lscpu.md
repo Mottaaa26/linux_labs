@@ -1,3 +1,7 @@
+
+# Command · `lscpu`
+
+```text
 mottap@victoryjack:~$ lscpu
 Architecture:                x86_64
   CPU op-mode(s):            32-bit, 64-bit
@@ -52,3 +56,4 @@ Vulnerabilities:
   Tsx async abort:           Not affected
   Vmscape:                   Not affected
 mottap@victoryjack:~$
+```

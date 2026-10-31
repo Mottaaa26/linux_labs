@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab01-First-day/Mission-01.md",
+                "file": "Lab01-First-day/commands/mission01/m1-lscpu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mission-01"
+              "title": "m1-lscpu"
             }
           }
         ]
@@ -190,12 +190,12 @@
   },
   "active": "f8282b8e505bca32",
   "lastOpenFiles": [
-    "Lab01-First-day/README.md",
-    "Lab01-First-day/Mission-01.md",
-    "Lab01-First-day/commands/mission01/m1-lscpu.md",
     "Lab01-First-day/commands/mission01/m1-hostnamectl.md",
     "Lab01-First-day/commands/mission01/m1-free-h.md",
     "Lab01-First-day/commands/mission01/m1-df-h.md",
+    "Lab01-First-day/commands/mission01/m1-lscpu.md",
+    "Lab01-First-day/Mission-01.md",
+    "Lab01-First-day/README.md",
     "evidence/mission-01/m1-df-h.md",
     "evidence/mission-01",
     "evidence",

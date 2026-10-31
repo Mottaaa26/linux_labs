@@ -1,3 +1,7 @@
+
+# Command · `df -h`
+
+````text
 mottap@victoryjack:~$ df -h
 Filesystem                         Size  Used Avail Use% Mounted on
 tmpfs                              329M  1,1M  328M   1% /run
@@ -11,3 +15,5 @@ none                               1,0M     0  1,0M   0% /run/credentials/system
 none                               1,0M     0  1,0M   0% /run/credentials/getty@tty1.service
 tmpfs                              165M  8,0K  165M   1% /run/user/1000
 mottap@victoryjack:~$
+```
+
