@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "9eb56671ba049d46",
+    "type": "split",
+    "children": [
+      {
+        "id": "80111bc7e59232ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8282b8e505bca32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab01-First-day/Mission-01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mission-01"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f090c165fc67a310",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0fd7b9532260b8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa14b7cf36c071b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "70383891e5e5b32d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "6ffca59b6d78d36c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d64dc230653e194",
+    "type": "split",
+    "children": [
+      {
+        "id": "e84d43e161f874e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18d59f47978276d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lab01. First Day as a SysAdmin/Mission-01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "fd7ed4f1bafa2239",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lab01. First Day as a SysAdmin/Mission-01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "fe4c3dab72c9e122",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "54972d77fdd3ab57",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "c4c555d211d78e76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lab01. First Day as a SysAdmin/Mission-01.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "f8282b8e505bca32",
+  "lastOpenFiles": [
+    "Lab01-First-day/README.md",
+    "Lab01-First-day/Mission-01.md",
+    "Lab01-First-day/commands/mission01/m1-lscpu.md",
+    "Lab01-First-day/commands/mission01/m1-hostnamectl.md",
+    "Lab01-First-day/commands/mission01/m1-free-h.md",
+    "Lab01-First-day/commands/mission01/m1-df-h.md",
+    "evidence/mission-01/m1-df-h.md",
+    "evidence/mission-01",
+    "evidence",
+    "Lab01-First-day/commands/mission01",
+    "evidence/mission-01/m1-hostnamectl.md",
+    "Lab01. First Day as a SysAdmin/evidence/Mission-01/free-h.png",
+    "Lab01. First Day as a SysAdmin/evidence/Mission-01/hostnamectl.png",
+    "Lab01. First Day as a SysAdmin/evidence/Mission-01",
+    "README.md",
+    "_templates/Mission-template.md",
+    "Lab01. First Day as a SysAdmin/evidencias/Sin título 1.md",
+    "Lab01-First-day/commands",
+    "Sin nombre",
+    "Lab01-First-day",
+    "_templates"
+  ]
+}
