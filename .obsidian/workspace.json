@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab01-First-day/Mission-02.md",
+                "file": "Lab01-First-day/commands/mission02/m2-du-sh-after.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mission-02"
+              "title": "m2-du-sh-after"
             }
           }
         ]
@@ -190,10 +190,15 @@
   },
   "active": "f8282b8e505bca32",
   "lastOpenFiles": [
-    "Lab01-First-day/Mission-01.md",
-    "_templates/Mission-template.md",
+    "Lab01-First-day/commands/mission02/m2-du-sh-before.md",
+    "Lab01-First-day/commands/mission02/m2-find.md",
     "Lab01-First-day/Mission-02.md",
+    "Lab01-First-day/commands/mission02/m2-du-sh-after.md",
+    "Lab01-First-day/Mission-01.md",
+    "Lab01-First-day/commands/mission02/m2-du-sh-final-v.md",
     "Lab01-First-day/commands/mission02/m2-du-sh.md",
+    "Lab01-First-day/README.md",
+    "_templates/Mission-template.md",
     "Lab01-First-day/sed6Aw3yv",
     "Lab01-First-day/Mission-02vf.md",
     "Lab01-First-day/commands/mission01/m1-free-h.md",
@@ -201,7 +206,6 @@
     "Lab01-First-day/commands/mission01/m1-lscpu.md",
     "Lab01-First-day/commands/mission01/m1-df-h.md",
     "_templates/Command-template.md",
-    "Lab01-First-day/README.md",
     "Lab01-First-day/commands/mission02",
     "evidence/mission-01/m1-df-h.md",
     "evidence/mission-01",

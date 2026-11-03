@@ -38,7 +38,7 @@ sudo fallocate -l 1G /opt/app_antigua/cache/.datos_temp
 sudo fallocate -l 500M /var/tmp/respaldo_2023.tar.gz
 ```
 
-> _"We got an alert that free disk space dropped. Find out what's taking up space, decide what can be safely deleted, and free it up."_
+> _"We got a disk usage alert. Find out what's taking up space and free whatever you can, without breaking anything. Keep in mind: the old application Carlos (the previous sysadmin) used was decommissioned a year ago, and our policy is to keep backups for 12 months. Before deleting anything, I want to know why it's safe to do so."_
 
 ### Hints
 

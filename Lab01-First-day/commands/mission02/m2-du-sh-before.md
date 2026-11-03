@@ -1,4 +1,3 @@
-
 # Command · `sudo du -sh /* | sort -h`
 
 ```text
