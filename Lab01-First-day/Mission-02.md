@@ -1,12 +1,12 @@
 # Mission 2 · Alert: The Disk Is Filling Up
 
-> _"We got an alert that free disk space dropped. Find out what's taking up space, decide what can be safely deleted, and free it up."_
+## Exercise
 
-## Problem
+> _"We got an alert that free disk space dropped. Find out what's taking up space, decide what can be safely deleted, and free it up."_
 
 Check the free space per folder and not by disc unit, so i can detele the unnecesary files in every folder in order to make space in the disk. Then order the results.
 
-## Investigation
+## Solution
 
 I searched for a command that shows the space usage of a folder, the result was 'du' keyword, then i look up in the terminal the function with command: man du and du --help.
 
@@ -22,9 +22,11 @@ The instructions are not quite clear, so i look up the command in internet.
 
 I found something. The web show use examples for the command and guided me trough the man find command.
 
-## Findings
-
-<!-- Item | Location | Size | Decision | Reason. Add a "before / after" row for free space on `/` (Avail column of `df -h`). -->
+The files with the most occupied space are:
+* /usr -> 2,5G
+* /swap.img -> 1,7G
+* /var -> 1,2G
+* /opt -> 1,1G
 
 | Item | Location | Size | Decision | Reason |
 | ---- | -------- | ---- | -------- | ------ |
@@ -32,22 +34,9 @@ I found something. The web show use examples for the command and guided me troug
 
 _Data collected on: YYYY-MM-DD, HH:MM (UTC−5)_
 
-## Commands Explained
+Commands used:
 
-### `sudo du -sh /* | sort -h`
-
-the du command see
-
-```text
-1,1G    /opt
-1,2G    /var
-1,7G    /swap.img
-2,5G    /usr
-```
-
-Full output: [m2-du-sh.md](commands/mission02/m2-du-sh.md)
-
-<!-- Add one subsection per command (find, apt, journalctl...). -->
+- `sudo du -sh /* | sort -h` → [m2-du-sh.md](commands/mission02/m2-du-sh.md)
 
 ## Answer to My Manager
 
@@ -58,9 +47,3 @@ Full output: [m2-du-sh.md](commands/mission02/m2-du-sh.md)
 | Problem | Cause | Solution |
 | ------- | ----- | -------- |
 |         |       |          |
-
-## References
-
-- `du(1)` manual page — `man du`
-- `find(1)` manual page — `man find`
-<!-- Add the website you used for the find examples. -->
