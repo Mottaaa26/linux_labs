@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab01-First-day/commands/mission01/m1-lscpu.md",
+                "file": "Lab01-First-day/Mission-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "m1-lscpu"
+              "title": "Mission-02"
             }
           }
         ]
@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -179,23 +179,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "f8282b8e505bca32",
   "lastOpenFiles": [
-    "Lab01-First-day/commands/mission01/m1-hostnamectl.md",
-    "Lab01-First-day/commands/mission01/m1-free-h.md",
-    "Lab01-First-day/commands/mission01/m1-df-h.md",
-    "Lab01-First-day/commands/mission01/m1-lscpu.md",
     "Lab01-First-day/Mission-01.md",
+    "Lab01-First-day/sed6Aw3yv",
+    "Lab01-First-day/Mission-02vf.md",
+    "Lab01-First-day/Mission-02.md",
+    "Lab01-First-day/commands/mission01/m1-free-h.md",
+    "Lab01-First-day/commands/mission01/m1-hostnamectl.md",
+    "Lab01-First-day/commands/mission01/m1-lscpu.md",
+    "Lab01-First-day/commands/mission01/m1-df-h.md",
+    "_templates/Command-template.md",
+    "_templates/Mission-template.md",
+    "Lab01-First-day/commands/mission02/m2-du-sh.md",
     "Lab01-First-day/README.md",
+    "Lab01-First-day/commands/mission02",
     "evidence/mission-01/m1-df-h.md",
     "evidence/mission-01",
     "evidence",
@@ -205,7 +212,6 @@
     "Lab01. First Day as a SysAdmin/evidence/Mission-01/hostnamectl.png",
     "Lab01. First Day as a SysAdmin/evidence/Mission-01",
     "README.md",
-    "_templates/Mission-template.md",
     "Lab01. First Day as a SysAdmin/evidencias/Sin título 1.md",
     "Lab01-First-day/commands",
     "Sin nombre",
